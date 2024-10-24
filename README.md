@@ -7,5 +7,5 @@ My name is Johnrey Aborot but you can call me **Je!** I am from Polytechnic Univ
 - 🤔 I’m looking for help with **anything related to coding**
 - 📫 How to reach me:
     - 📧 Gmail: johnreyaborot10@gmail.com
-    - 💻 Linkedin: Johnrey Aborot
+    - 💻 LinkedIn: Johnrey Aborot
 - 😄 Pronouns: **He/him**
