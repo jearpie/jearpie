@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Johnrey Aborot but you can call me Je! I am from Polytechnic University of the Philippines - Santa Rosa Campus and I am currently taking ## Bachler of Science in Information Technology ##
+My name is Johnrey Aborot but you can call me Je! I am from Polytechnic University of the Philippines - Santa Rosa Campus and I am currently taking ## Bachler of Science in Information Technology!
 
 <!--
 **jearpie/jearpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
