@@ -6,6 +6,6 @@ My name is Johnrey Aborot but you can call me **Je!** I am from Polytechnic Univ
 - 🌱 I’m currently learning **C++**
 - 🤔 I’m looking for help with **anything related to coding**
 - 📫 How to reach me:
-    - Gmail: johnreyaborot10@gmail.com
-    - Linkedin: Johnrey Aborot
+    - 📧 Gmail: johnreyaborot10@gmail.com
+    - 💻 Linkedin: Johnrey Aborot
 - 😄 Pronouns: **He/him**
